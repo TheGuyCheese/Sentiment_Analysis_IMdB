@@ -8,4 +8,4 @@
 - Enter the text you want to analyze the sentiment for.
 - The Jupyter Notebook for the model can be found in the /model/Model_Notebook folder
 
-## Thank you forviewing my project
+## Thank you for viewing my project
